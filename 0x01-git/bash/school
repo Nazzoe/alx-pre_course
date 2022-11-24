@@ -1,2 +1,7 @@
-﻿#!/bin/bash.
+<<<<<<< Updated upstream
+﻿#!/bin/bash
+=======
+#!/bin/bash
 “School”
+>>>>>>> Stashed changes
+The school is open!
